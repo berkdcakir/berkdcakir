@@ -1,5 +1,5 @@
 # 💫 About Me:
-Işık Üniversitesi MIS öğrencisiyim.<br>Işık Blockchain yönetim kurulu üyesiyim.<br>Rust, Solidity, jS ve C# dillerinde çalışıyorum.
+Işık Üniversitesi MIS öğrencisiyim.<br>Işık Blockchain yönetim başkan yardımcısı.<br>Mobil uygulamalar üzerinde çalışıyorum.
 
 
 ## 🌐 Socials:
